@@ -3,37 +3,52 @@ html {
     text-align: center;
     background-color: #142d4c;
 }
+
 img {
     border-radius: 50%;
     max-width: 80%;
     margin-top: 5%;
     margin-bottom: 2%;
 }
+
 article {
     background-color: #9fd3c7;
     border-radius: 5%;
 }
+
 h1 {
     font-size: 50px;
     color: #ececec;
     margin: 2.5%;
 }
+
 h3 {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 25px;
 }
+
 section {
     margin-inline: 20%;
 }
+
+.prev-btn,
+.nxt-btn {
+  font-size: 30px;
+  margin-bottom: 5%;
+  background: transparent;
+  border-color: transparent;
+  transition: var(--transition);
+  cursor: pointer;
+}
+
 #job {
     margin: 0;
     margin-bottom: 3%;
 }
+
 #info {
     padding-inline: 20%;
     padding-bottom: 5%;
     margin: 0;
 }
-
-
