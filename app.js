@@ -12,10 +12,34 @@ const reviews = [
         info: "Spencer is a brilliant individual." ,  
     },
     {
+        author: "Edward Snowden",
+        job: "Patriot",
+        img: "./Images/snowden.jpg",
+        info: "Had I known Spencer at the time, I'd given him the NSA secrets." , 
+    },
+    {
         author: "David Goggins",
         job: "Soul Snatcher",
         img: "./Images/goggins.jpg",
         info: "If anyone can carry the boat, it's Spencer!" , 
+    },
+    {
+        author: "Warren Buffet",
+        job: "Old Guy",
+        img: "./Images/buffet.jpeg",
+        info: "When I saw Spencer's trades I realized I've been doing it wrong for years." , 
+    },
+    {
+        author: "Joe Biden",
+        job: "Maybe: President",
+        img: "./Images/biden.jpg",
+        info: "Goats are like mushrooms. Because if you shoot a duck, I'm scared of toasters." , 
+    },
+    {
+        author: "Anthony Fauci",
+        job: "Big Science Guy",
+        img: "./Images/fauci.jpg",
+        info: "Spencer IS science!" , 
     },
 ];
 
